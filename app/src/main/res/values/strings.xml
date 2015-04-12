@@ -1,0 +1,11 @@
+<resources>
+    
+    <string name="app_name">VectorDrawableDemo</string>
+
+    <string name="action_rotate">Rotate</string>
+    <string name="action_scale_down">Scale down</string>
+    <string name="action_scale_up">Scale up</string>
+    <string name="action_morph_pentagon">Morph to pentagon</string>
+    <string name="action_morph_star">Morph to star</string>
+
+</resources>

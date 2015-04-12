@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".VectorDrawableActivity">
+    <item
+        android:id="@+id/action_rotate"
+        android:title="@string/action_rotate"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_scale_down"
+        android:title="@string/action_scale_down"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_scale_up"
+        android:title="@string/action_scale_up"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_morph_pentagon"
+        android:title="@string/action_morph_pentagon"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_morph_star"
+        android:title="@string/action_morph_star"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+</menu>
